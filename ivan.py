@@ -3,4 +3,4 @@ def getName(name) :
     print('name >>>>>', name )
 
 
-getName('Alex')
+getName('BLEX')
